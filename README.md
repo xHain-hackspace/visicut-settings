@@ -1,19 +1,19 @@
 Visicut settings
 ================
 
-Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool to prepare, save and send Jobs to Lasercutters) used by the FAU FabLab.
+Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool to prepare, save and send Jobs to Lasercutters) used by the x-hain.
 
 Instructions
 ------------
 
  * Delete all settings before you clone this repo:
-    
+
     ```bash
     rm -rf ~/.visicut/
     ```
 
  * Clone the repo to .visicut:
-    
+
     ```bash
     git clone git@github.com:fau-fablab/visicut-settings.git .visicut
     ```
@@ -33,7 +33,7 @@ Instructions
   inside the repository. Check also, that the settings are working properly.
 
 *  Then add and commit everything:
-    
+
     ```bash
     git add -A
     git commit -A
