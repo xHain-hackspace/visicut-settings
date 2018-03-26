@@ -1,0 +1,29 @@
+<visicutPreferences>
+  <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>x-hain</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <windowBounds>
+    <x>386</x>
+    <y>184</y>
+    <width>1145</width>
+    <height>834</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/tmp/ink_ext_XXXXXX.svg5RXEBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg5SZDBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgENAKBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgUNCEBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgLSIIBZ.svg</string>
+  </recentFiles>
+  <lastMaterial>Acryl</lastMaterial>
+  <lastLaserDevice>Epilog_Zing_30_x-hain</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
+</visicutPreferences>
