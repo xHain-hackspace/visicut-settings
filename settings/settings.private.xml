@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<visicutPreferences version="0">
+  <defaultMapping>cut everything</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>xHain</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>1736617513332</lastAutoUpdateTime>
+  <lastAutoUpdateLabName>xHain</lastAutoUpdateLabName>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/home/xhain/.visicut/examples/Anker.svg</string>
+    <string>/media/xhain/64GB/CUT-2.svg</string>
+    <string>/media/xhain/64GB/CUT.svg</string>
+    <string>/Users/nicolai/.visicut/examples/Anker.svg</string>
+    <string>/Users/nicolai/.visicut/examples/20mm_rectangle.svg</string>
+  </recentFiles>
+  <lastMaterial>MDF</lastMaterial>
+  <lastLaserDevice>zing xhain</lastLaserDevice>
+</visicutPreferences>

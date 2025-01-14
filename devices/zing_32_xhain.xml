@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job was sent as '$jobname'
+Please:
+-Close the lid
+-Turn on the Ventilation
+-And press 'start' on the Lasercutter $name</jobSentText>
+  <jobPrefix>VAL</jobPrefix>
+  <laserCutter class="de.thomas_oster.liblasercut.drivers.EpilogZing">
+    <hostname>192.168.42.3</hostname>
+    <port>515</port>
+    <autofocus>false</autofocus>
+    <hideSoftwareFocus>false</hideSoftwareFocus>
+    <bedWidth>600.0</bedWidth>
+    <bedHeight>300.0</bedHeight>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <thumbnailPath>zing_32_xhain.png</thumbnailPath>
+  <name>zing xhain</name>
+</laserDevice>

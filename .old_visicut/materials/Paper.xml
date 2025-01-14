@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description>Just paper</description>
+  <thumbnailPath>Paper.png</thumbnailPath>
+  <engraveColor>#404040</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#cbcbcb</color>
+  <name>Paper</name>
+  <materialThicknesses>
+    <float>0.1</float>
+  </materialThicknesses>
+</material>
