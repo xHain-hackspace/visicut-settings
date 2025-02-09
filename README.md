@@ -1,3 +1,9 @@
-xHain visicut settings
+# Visicut-Settings-Fab-Lab-Berlin
 
-this repo contains the material settings for xHain's Epilog ZING laser cutter and supported materials
+This repository holds the laser setting s for the FabLab Berlin.   
+
+It is intended to get our most recent settings into [Visicut](https://github.com/t-oster/visicut).   
+
+For a explanation see https://github.com/t-oster/VisiCut/wiki/How-to-add-default-settings-for-your-lab .      
+
+Hello
