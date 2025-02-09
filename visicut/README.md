@@ -1,4 +1,4 @@
 # Visicut-Settings-xHain-Berlin
 
-This repository holds the laser setting s for the xHain Hack+Makespace  Berlin.   
+This repository contains the VisiCut laser cutter settings for the xHain Hack+Makespace  Berlin.   
 
