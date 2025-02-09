@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<visicutPreferences version="0">
+  <defaultMapping>alles cut</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>xhain</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>0</lastAutoUpdateTime>
+  <lastAutoUpdateLabName></lastAutoUpdateLabName>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/home/xhain/Documents/abstandshalter-m3.svg</string>
+    <string>/home/xhain/Downloads/Glowforge_5x5_Frame.svg</string>
+    <string>/home/xhain/Downloads/Glowforge_6x6_Frame.svg</string>
+    <string>/media/xhain/LaCie/yael.svg</string>
+    <string>/home/xhain/u.svg</string>
+  </recentFiles>
+  <lastMaterial>MDF</lastMaterial>
+  <lastLaserDevice>zing xhain</lastLaserDevice>
+</visicutPreferences>

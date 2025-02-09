@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<visicutPreferences version="0">
+  <defaultMapping>alles cut</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>xHain Hack Makespace</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>0</lastAutoUpdateTime>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+</visicutPreferences>
