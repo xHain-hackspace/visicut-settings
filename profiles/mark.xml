@@ -1,9 +1,0 @@
-<vectorProfile>
-  <DPI>1000.0</DPI>
-  <description>Mark material (like cut, but not as all the way through)</description>
-  <name>mark</name>
-  <orderStrategy>NEAREST</orderStrategy>
-  <useOutline>false</useOutline>
-  <isCut>true</isCut>
-  <width>0.3</width>
-</vectorProfile>

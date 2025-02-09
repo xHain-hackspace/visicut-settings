@@ -1,5 +1,7 @@
-xHain visicut Laser cutter settings
+# Visicut-Settings-xHain-Berlin
 
-this repo contains the material settings for xHain's Epilog ZING laser cutter (30W) and supported materials.
+This repository contains the VisiCut laser cutter settings for the xHain Hack+Makespace  Berlin.  
+
+Settings for the Epilog ZING 30W Laser Cutter.
 
 

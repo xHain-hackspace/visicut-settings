@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description>ipad mini</description>
+  <thumbnailPath>Aluminium_32_eloxiert.png</thumbnailPath>
+  <engraveColor>#ffcc00</engraveColor>
+  <cutColor>#00ffcc</cutColor>
+  <color>#ffffff</color>
+  <name>Aluminium eloxiert</name>
+  <materialThicknesses>
+    <float>0.0</float>
+  </materialThicknesses>
+</material>
